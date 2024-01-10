@@ -1,0 +1,6 @@
+@APIUkrposhtaTest_HostAddress = http://localhost:5081
+
+GET {{APIUkrposhtaTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
